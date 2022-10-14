@@ -5,7 +5,7 @@ This project is a MYSQL database & CMS-style Blog built using Model View Control
 
 ## Link to the App
 * ['MVC-Tech-Blog-Github'](https://github.com/KevinNg2/MVC-Tech-Blog)
-* ['Heroku Live Link']()
+* ['Heroku Live Link'](https://dry-oasis-42343.herokuapp.com/)
 
 <!-- screenshot here -->
 
